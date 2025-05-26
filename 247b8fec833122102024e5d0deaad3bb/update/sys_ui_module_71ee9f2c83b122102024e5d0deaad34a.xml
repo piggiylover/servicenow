@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="test02">2dee9f2c83b122102024e5d0deaad346</application>
+        <filter/>
+        <name>test02s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>u_test02_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-26 02:10:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>71ee9f2c83b122102024e5d0deaad34a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test02s</sys_name>
+        <sys_package display_value="liang" source="247b8fec833122102024e5d0deaad3bb">247b8fec833122102024e5d0deaad3bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="liang">247b8fec833122102024e5d0deaad3bb</sys_scope>
+        <sys_update_name>sys_ui_module_71ee9f2c83b122102024e5d0deaad34a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-26 02:10:42</sys_updated_on>
+        <table>u_test02</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
