@@ -1,2 +1,1 @@
-weather 
-city
+{"city":"東京都","weather":"曇りがち"}
