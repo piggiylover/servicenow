@@ -1,1 +1,1 @@
-{"city":"東京都","weather":"rain"}
+{"city":"東京都","weather":"晴天"}
